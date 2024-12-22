@@ -1,0 +1,13 @@
+[package]
+name = "aoc_2024_12"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name="part1"
+
+[[bin]]
+name="part2"
+
+[dependencies]
+lazy_static = "1.5.0"
