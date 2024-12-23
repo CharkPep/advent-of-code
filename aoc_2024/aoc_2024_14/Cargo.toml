@@ -1,0 +1,13 @@
+[package]
+name = "aoc_2024_14"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name="part1"
+
+[[bin]]
+name="part2"
+
+[dependencies]
+regex = "1.11.1"
