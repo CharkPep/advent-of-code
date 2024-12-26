@@ -1,5 +1,5 @@
 [workspace]
-members = ["aoc_2024/aoc_2024_1", "aoc_2024/aoc_2024_12", "aoc_2024/aoc_2024_13", "aoc_2024/aoc_2024_4", "aoc_2024/aoc_2024_9", "aoc_2024/shared"]
+members = ["aoc_2024/aoc_2024_1", "aoc_2024/aoc_2024_12", "aoc_2024/aoc_2024_13", "aoc_2024/aoc_2024_15", "aoc_2024/aoc_2024_4", "aoc_2024/aoc_2024_9", "aoc_2024/shared"]
 
 [workspace.dependencies]
 rayon = "1.10.0"

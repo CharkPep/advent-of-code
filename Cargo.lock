@@ -45,6 +45,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "aoc_2024_15"
+version = "0.1.0"
+dependencies = [
+ "regex",
+]
+
+[[package]]
 name = "aoc_2024_4"
 version = "0.1.0"
 
